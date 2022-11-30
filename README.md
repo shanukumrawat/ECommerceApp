@@ -6,7 +6,7 @@ This is a E-Commerce App which provide web service. This service can be used to 
 # E-Commerce-Rest-API
 
 #### Er Diagram
-<img src="E-Commerce.png"/>
+<img src="ER-Diagram.png"/>
 
 
 
