@@ -27,10 +27,10 @@ public class OrderManagementApplication {
 	}
 
 	private ApiInfo apiDetails() {
-		return new ApiInfo("E-commerce Application", "Sample api for Blog app", "1.0", "@Archie",
-				new springfox.documentation.service.Contact("Contact me!", "https://www.linkedin.com/in/archeese/",
-						"gowork.archis@gmail.com"),
-				"API l.0", "https://github.com/starving-array", Collections.emptyList());
+		return new ApiInfo("E-commerce Application", "Sample api for Blog app", "1.0", "@Shanu",
+				new springfox.documentation.service.Contact("Contact me!", "https://www.linkedin.com/in/shanukumrawat/",
+						"kumrawat.shanu@gmail.com"),
+				"API l.0", "https://github.com/shanukumrawat", Collections.emptyList());
 	}
 
 }
